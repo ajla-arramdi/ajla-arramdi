@@ -35,8 +35,8 @@
 </td>
 <td align="center" width="33%" style="border: none;">
 📱<br>
-<strong>MOBILE APP</strong><br>
-<sub>Flutter</sub>
+<strong>MOBILE FIRST</strong><br>
+<sub>Flutter & Cross-Platform</sub>
 </td>
 <td align="center" width="33%" style="border: none;">
 🎨<br>
@@ -48,6 +48,9 @@
 
 <br>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="800" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer"/>
 
@@ -145,10 +148,53 @@ class Developer {
 
 ---
 
-## 🌈 **Contribution Graph**
+## 🔥 **Contribution Heatmap - Always Building Something Amazing**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajla-arramdi&custom_title=✨%20Ajla's%20Contribution%20Journey%20✨&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF20" width="100%"/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 **2025 Goals**
+```
+🎯 500+ Commits This Year
+🌟 50+ Open Source Contributions  
+🚀 20+ New Projects
+💡 10+ Major Features Shipped
+📱 5+ Mobile Apps Published
+🎨 100+ UI Components Created
+```
+
+</td>
+<td width="50%">
+
+### 🔥 **Current Streak**
+```
+⚡ Daily Coding Streak: 🔥
+🌟 Last 30 Days: Super Active
+📈 This Month: 150+ Contributions
+🎯 Best Month: 200+ Commits
+💪 Consistency Level: Expert
+🚀 Momentum: Accelerating
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajla-arramdi&custom_title=⚡%20Daily%20Code%20Adventures%20-%20Building%20The%20Future%20One%20Commit%20At%20A%20Time%20⚡&bg_color=0D1117&color=00D9FF&line=58A6FF&point=F85D7F&area=true&hide_border=true&area_color=238636&height=400"/>
+
+<br>
+
+### 🎖️ **Contribution Achievements**
+![](https://img.shields.io/badge/Total%20Commits-1000+-00D9FF?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/Repositories-50+-58A6FF?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Languages-10+-F85D7F?style=for-the-badge&logo=code)
+![](https://img.shields.io/badge/Open%20Source-Active-238636?style=for-the-badge&logo=opensource)
+
 </div>
 
 ---
