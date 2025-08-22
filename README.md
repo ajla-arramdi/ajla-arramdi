@@ -64,32 +64,39 @@
 <table>
 <tr>
 <td width="50%">
-
-typescript
 class Developer {
-  name: string = "Ajla Arramdi";
-  pronouns: string[] = ["she", "her"];
-  location: string = "🌍 Jakarta Indonesia";
+  final String name = "Ajla Arramdi";
+  final List<String> pronouns = ["she", "her"];
+  final String location = "🌍 Jakarta, Indonesia";
   
-  languages: string[] = [
-    "JavaScript", "TypeScript", 
-    "Dart", "PHP"
+  final List<String> languages = [
+    "JavaScript", 
+    "TypeScript", 
+    "Dart", 
+    "PHP"
   ];
   
-  passions: string[] = [
-    "🌐 Web Development",
-    "📱 Mobile Apps", 
-    "📸 Photography",
-    "🎨 UI/UX Design"
-  ];
+  final Map<String, dynamic> passions = {
+    "webDev": "🌐 Web Development",
+    "mobile": "📱 Mobile Apps", 
+    "photography": "📸 Photography",
+    "design": "🎨 UI/UX Design"
+  };
   
-  currentlyLearning: string = "AI & Machine Learning";
-  funFact: string = "I speak fluent code and coffee ☕";
+  String get currentlyLearning => "AI & Machine Learning";
+  String get funFact => "I speak fluent code and coffee ☕";
   
-  workingOn(): string {
+  String workingOn() {
     return "Building the next big thing! 🚀";
   }
+  
+  void sayHello() {
+    print("Hello World! Let's build something amazing together! 💫");
+  }
 }
+
+// Create instance
+final ajla = Developer();
 
 
 </td>
