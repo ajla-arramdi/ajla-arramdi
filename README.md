@@ -11,20 +11,20 @@
 ```javascript
 const ajla = {
     pronouns: "she/her",
-    code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["JavaScript", "TypeScript", "Dart", "PHP"],
+    askMeAbout: ["web dev", "app dev", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
+            js: ["React", "Next.js"],
+            dart: ["Flutter"],
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask", "FastAPI"],
-            misc: ["Firebase", "Socket.IO"]
+            js: ["Node", "Express", "NestJS"],
+            php: ["Laravel"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
-        misc: ["Docker", "AWS", "Git", "Linux"]
+        databases: ["MySQL", "PostgreSQL"],
+        misc: ["Git", "Docker"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building scalable web applications",
@@ -40,18 +40,22 @@ const ajla = {
   
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
