@@ -81,8 +81,11 @@ class Developer {
 ### **Backend Power**
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php&theme=dark" />
 
-### **Languages & Tools**
-<img src="https://skillicons.dev/icons?i=js,ts,dart,php,mysql,postgresql,git,docker,vscode&theme=dark" />
+### **Languages & Design**
+<img src="https://skillicons.dev/icons?i=js,ts,dart,php,figma&theme=dark" />
+
+### **Database & DevOps**
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,vscode,postman&theme=dark" />
 
 </div>
 
