@@ -1,150 +1,209 @@
-# 👋 Hi there, I'm Ajla Arramdi!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Always+learning+new+technologies;Let's+build+something+amazing+together!" alt="Typing SVG" />
+
+# 🌟 Welcome to My Digital Universe 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajla%20Arramdi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-```javascript
-const ajla = {
-    pronouns: "she/her",
-    code: ["JavaScript", "TypeScript", "Dart", "PHP"],
-    askMeAbout: ["web dev", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            dart: ["Flutter"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            php: ["Laravel"]
-        },
-        databases: ["MySQL", "PostgreSQL"],
-        misc: ["Git", "Docker"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
+## 💫 **Full Stack Developer | Mobile App Creator | Digital Artist** 💫
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💎+Crafting+Digital+Experiences;🎨+Where+Art+Meets+Technology;✨+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎭 **Who Am I?**
+
+<table>
+<tr>
+<td width="50%">
+
+```typescript
+class Developer {
+  name: string = "Ajla Arramdi";
+  pronouns: string[] = ["she", "her"];
+  location: string = "🌍 Earth";
+  
+  languages: string[] = [
+    "JavaScript", "TypeScript", 
+    "Dart", "PHP"
+  ];
+  
+  passions: string[] = [
+    "🌐 Web Development",
+    "📱 Mobile Apps", 
+    "📸 Photography",
+    "🎨 UI/UX Design"
+  ];
+  
+  currentlyLearning: string = "AI & Machine Learning";
+  funFact: string = "I speak fluent code and coffee ☕";
+  
+  workingOn(): string {
+    return "Building the next big thing! 🚀";
+  }
+}
 ```
 
----
-
-## 🛠️ Languages and Tools
+</td>
+<td width="50%">
 
 <div align="center">
-  
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://github.com/ajla-arramdi.png" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF50;"/>
 
-### 🚀 Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎯 **Current Focus**
+**Building Scalable Web Applications**
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🏆 **Mission**
+*Creating beautiful, functional digital experiences that make a difference*
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind,bootstrap&theme=dark" />
+
+### **Backend Power**
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php&theme=dark" />
+
+### **Languages & Tools**
+<img src="https://skillicons.dev/icons?i=js,ts,dart,php,mysql,postgresql,git,docker,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajla-arramdi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ajla-arramdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajla-arramdi&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajla-arramdi&show_icons=true&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&currStreakLabel=00D9FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ajla-arramdi&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&currStreakLabel=00D9FF"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajla-arramdi&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajla-arramdi&custom_title=Ajla's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area_color=4c8eda&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ajla-arramdi/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajla-arramdi&repo=project-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/ajla-arramdi/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajla-arramdi&repo=project-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ajla.arramdi_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajla.21arramdi@gmail.com)
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajla-arramdi&layout=donut&theme=algolia&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 🌈 **Contribution Graph**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajla-arramdi&custom_title=✨%20Ajla's%20Contribution%20Journey%20✨&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF20" width="100%"/>
 </div>
 
 ---
 
-## 🎵 Currently Playing
+## 🎖️ **Achievement Unlocked**
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff" alt="Spotify Now Playing" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajla-arramdi&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true"/>
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **Project Spotlight**
+<a href="#">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ajla-arramdi&repo=awesome-project&theme=algolia&hide_border=true&show_owner=true"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 💎 **Innovation Hub**
+<a href="#">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ajla-arramdi&repo=cool-app&theme=algolia&hide_border=true&show_owner=true"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💬 **Random Dev Wisdom**
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true"/>
+</div>
+
+---
+
+## 🌐 **Let's Connect & Build Together**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ajla-arramdi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="https://twitter.com/ajla_arramdi">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+</a>
+<a href="https://instagram.com/ajla_arramdi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+</a>
+<a href="mailto:ajla.arramdi@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://ajla-portfolio.dev">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722"/>
+</a>
+
+### 📧 **Drop me a line:** `ajla.arramdi@example.com`
+
+</div>
+
+---
+
+## 🎵 **Currently Vibing To**
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajla-arramdi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  **Thanks for visiting! 😊**
-  
-  *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+## 🌟 **Thank You for Stopping By!** 🌟
+
+<img src="https://komarev.com/ghpvc/?username=ajla-arramdi&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
+
+### *"First, solve the problem. Then, write the code." - John Johnson*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
 </div>
 
 ---
 
+## 🐍 **Watch My Contributions**
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
