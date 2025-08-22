@@ -10,37 +10,53 @@
 
 <div align="center">
 
-## ✨ **Crafting Digital Dreams Into Reality** ✨
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AJLA+ARRAMDI;DIGITAL+ARCHITECT;INNOVATION+CREATOR" alt="Typing SVG" />
+</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
-### 💻 **Full Stack Developer** • 📱 **Mobile Innovator** • 🎨 **UI/UX Enthusiast**
+### 🚀 **Transforming Ideas Into Digital Reality** 🚀
 
 <br>
 
-<table align="center">
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="350" />
+</div>
+
+<br>
+
+<table align="center" style="border: none;">
 <tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="100">
-<br><strong>Code Architect</strong>
-<br><em>Building scalable solutions</em>
+<td align="center" width="33%" style="border: none;">
+🌐<br>
+<strong>FULL STACK</strong><br>
+<sub>Frontend + Backend Mastery</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<br><strong>Mobile Creator</strong>
-<br><em>Flutter & React Native</em>
+<td align="center" width="33%" style="border: none;">
+📱<br>
+<strong>MOBILE FIRST</strong><br>
+<sub>Flutter & Cross-Platform</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<br><strong>Design Lover</strong>
-<br><em>Where aesthetics meet function</em>
+<td align="center" width="33%" style="border: none;">
+🎨<br>
+<strong>UI/UX DESIGN</strong><br>
+<sub>Beautiful & Functional</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="800" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer"/>
+
+<br>
+
+**`"Code is Poetry, Design is Art, Innovation is Magic"`** ✨
 
 </div>
 
