@@ -64,40 +64,56 @@
 <table>
 <tr>
 <td width="50%">
+
+<?php
+
 class Developer {
-  final String name = "Ajla Arramdi";
-  final List<String> pronouns = ["she", "her"];
-  final String location = "🌍 Jakarta, Indonesia";
-  
-  final List<String> languages = [
-    "JavaScript", 
-    "TypeScript", 
-    "Dart", 
-    "PHP"
-  ];
-  
-  final Map<String, dynamic> passions = {
-    "webDev": "🌐 Web Development",
-    "mobile": "📱 Mobile Apps", 
-    "photography": "📸 Photography",
-    "design": "🎨 UI/UX Design"
-  };
-  
-  String get currentlyLearning => "AI & Machine Learning";
-  String get funFact => "I speak fluent code and coffee ☕";
-  
-  String workingOn() {
-    return "Building the next big thing! 🚀";
-  }
-  
-  void sayHello() {
-    print("Hello World! Let's build something amazing together! 💫");
-  }
+    private string $name = "Ajla Arramdi";
+    private array $pronouns = ["she", "her"];
+    private string $location = "🌍 Jakarta, Indonesia";
+    
+    private array $languages = [
+        "JavaScript", 
+        "TypeScript", 
+        "Dart", 
+        "PHP"
+    ];
+    
+    private array $passions = [
+        "webDev" => "🌐 Web Development",
+        "mobile" => "📱 Mobile Apps", 
+        "photography" => "📸 Photography",
+        "design" => "🎨 UI/UX Design"
+    ];
+    
+    private string $currentlyLearning = "AI & Machine Learning";
+    private string $funFact = "I speak fluent code and coffee ☕";
+    
+    public function getName(): string {
+        return $this->name;
+    }
+    
+    public function getLocation(): string {
+        return $this->location;
+    }
+    
+    public function workingOn(): string {
+        return "Building the next big thing! 🚀";
+    }
+    
+    public function getFunFact(): string {
+        return $this->funFact;
+    }
+    
+    public function sayHello(): void {
+        echo "Hello World! Let's build something amazing with Laravel! 💫";
+    }
 }
 
 // Create instance
-final ajla = Developer();
-
+$ajla = new Developer();
+echo $ajla->workingOn();
+?>
 
 </td>
 <td width="50%">
