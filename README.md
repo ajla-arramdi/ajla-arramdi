@@ -3,16 +3,6 @@
 <!-- EPIC ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,10:764ba2,30:f093fb,50:667eea,70:764ba2,90:f093fb,100:667eea&height=300&section=header&text=AJLA%20ARRAMDI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✨%20DIGITAL%20ARCHITECT%20%7C%20CODE%20VIRTUOSO%20%7C%20INNOVATION%20CATALYST%20✨&descAlignY=60&descSize=16"/>
 
-<!-- FLOATING NAVIGATION -->
-<table>
-<tr>
-<td><a href="#about"><img src="https://img.shields.io/badge/💫%20ABOUT-667eea?style=for-the-badge&logoColor=white&labelColor=000"/></a></td>
-<td><a href="#tech"><img src="https://img.shields.io/badge/🚀%20TECH-764ba2?style=for-the-badge&logoColor=white&labelColor=000"/></a></td>
-<td><a href="#projects"><img src="https://img.shields.io/badge/🎯%20PROJECTS-f093fb?style=for-the-badge&logoColor=white&labelColor=000"/></a></td>
-<td><a href="#stats"><img src="https://img.shields.io/badge/📊%20STATS-667eea?style=for-the-badge&logoColor=white&labelColor=000"/></a></td>
-<td><a href="#connect"><img src="https://img.shields.io/badge/🌐%20CONNECT-764ba2?style=for-the-badge&logoColor=white&labelColor=000"/></a></td>
-</tr>
-</table>
 
 <br>
 
