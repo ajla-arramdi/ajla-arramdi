@@ -65,55 +65,16 @@
 <tr>
 <td width="50%">
 
-<?php
-
-class Developer {
-    private string $name = "Ajla Arramdi";
-    private array $pronouns = ["she", "her"];
-    private string $location = "🌍 Jakarta, Indonesia";
-    
-    private array $languages = [
-        "JavaScript", 
-        "TypeScript", 
-        "Dart", 
-        "PHP"
-    ];
-    
-    private array $passions = [
-        "webDev" => "🌐 Web Development",
-        "mobile" => "📱 Mobile Apps", 
-        "photography" => "📸 Photography",
-        "design" => "🎨 UI/UX Design"
-    ];
-    
-    private string $currentlyLearning = "AI & Machine Learning";
-    private string $funFact = "I speak fluent code and coffee ☕";
-    
-    public function getName(): string {
-        return $this->name;
-    }
-    
-    public function getLocation(): string {
-        return $this->location;
-    }
-    
-    public function workingOn(): string {
-        return "Building the next big thing! 🚀";
-    }
-    
-    public function getFunFact(): string {
-        return $this->funFact;
-    }
-    
-    public function sayHello(): void {
-        echo "Hello World! Let's build something amazing with Laravel! 💫";
-    }
-}
-
-// Create instance
-$ajla = new Developer();
-echo $ajla->workingOn();
-?>
+const developer = {
+  name: "Ajla Arramdi",
+  location: "🌍 Jakarta, Indonesia",
+  languages: ["JavaScript", "TypeScript", "Dart", "PHP"],
+  passions: ["🌐 Web Dev", "📱 Mobile Apps", "🎨 UI/UX"],
+  currentFocus: "Building scalable applications",
+  funFact: "I speak fluent code and coffee ☕",
+  
+  sayHello: () => console.log("Let's build something amazing! 🚀")
+};
 
 </td>
 <td width="50%">
