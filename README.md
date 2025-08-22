@@ -1,134 +1,113 @@
 <div align="center">
 
-# 🌟 Welcome to My Digital Universe 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ajla%20Arramdi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Digital%20Architect%20%7C%20Innovation%20Creator&descAlignY=55&descSize=18"/>
+<!-- HERO SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=AJLA%20ARRAMDI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20DIGITAL%20ARCHITECT%20%26%20CODE%20ARTISAN%20✨&descAlignY=60&descSize=20"/>
 
 </div>
 
----
-
+<!-- FLOATING NAVIGATION -->
 <div align="center">
-
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AJLA+ARRAMDI;FULL+STACK+DEVELOPER;MOBILE+APP+CREATOR;UI%2FUX+DESIGNER;DIGITAL+INNOVATOR" alt="Typing SVG" />
-</h1>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 🚀 *Transforming Ideas Into Digital Reality* 🚀
-
-<br>
-
-<table align="center" style="border: none;">
+<table>
 <tr>
-<td align="center" width="25%" style="border: none;">
-🌐<br>
-<strong>FULL STACK</strong><br>
-<sub>End-to-End Solutions</sub>
-</td>
-<td align="center" width="25%" style="border: none;">
-📱<br>
-<strong>MOBILE APPS</strong><br>
-<sub>Flutter & React Native</sub>
-</td>
-<td align="center" width="25%" style="border: none;">
-🎨<br>
-<strong>UI/UX DESIGN</strong><br>
-<sub>Beautiful Interfaces</sub>
-</td>
-<td align="center" width="25%" style="border: none;">
-🚀<br>
-<strong>INNOVATION</strong><br>
-<sub>Cutting-Edge Tech</sub>
-</td>
+<td align="center"><a href="#-about"><img src="https://img.shields.io/badge/💫%20About-667eea?style=for-the-badge&logoColor=white"/></a></td>
+<td align="center"><a href="#-tech-stack"><img src="https://img.shields.io/badge/🚀%20Tech-764ba2?style=for-the-badge&logoColor=white"/></a></td>
+<td align="center"><a href="#-projects"><img src="https://img.shields.io/badge/🎯%20Projects-f093fb?style=for-the-badge&logoColor=white"/></a></td>
+<td align="center"><a href="#-connect"><img src="https://img.shields.io/badge/🌐%20Connect-667eea?style=for-the-badge&logoColor=white"/></a></td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-**"Code is Poetry, Design is Art, Innovation is Magic"** ✨
-
 </div>
 
 ---
 
-## 🎭 *Who Am I?*
+<!-- DYNAMIC TYPING EFFECT -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Mobile+App+Creator;UI%2FUX+Designer+%7C+Tech+Innovator;Building+Tomorrow's+Digital+Experiences" alt="Typing SVG"/>
+
+<br>
+
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<!-- ABOUT SECTION -->
+<h2 id="-about" align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
+About Me
+</h2>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-```typescript
-class Developer {
-  name: string = "Ajla Arramdi";
-  pronouns: string[] = ["she", "her"];
-  location: string = "🌍 Earth, Digital Realm";
+```javascript
+const ajla = {
+  name: "Ajla Arramdi",
+  role: "Full Stack Developer & Digital Architect",
+  location: "🌍 Earth • 🚀 Digital Universe",
   
-  expertise: {
-    frontend: string[] = ["React", "Next.js", "Flutter", "TypeScript"];
-    backend: string[] = ["Node.js", "Express", "NestJS", "Laravel"];
-    mobile: string[] = ["Flutter", "React Native"];
-    design: string[] = ["Figma", "Adobe Creative Suite"];
-    databases: string[] = ["MySQL", "PostgreSQL", "MongoDB"];
-  };
+  languages: {
+    expert: ["JavaScript", "TypeScript", "Dart"],
+    proficient: ["PHP", "Python", "Java"],
+    learning: ["Rust", "Go", "Swift"]
+  },
   
-  passions: string[] = [
-    "🌐 Full Stack Development",
-    "📱 Mobile App Creation", 
-    "📸 Digital Photography",
-    "🎨 User Experience Design",
-    "🤖 AI & Machine Learning",
-    "🎵 Music & Sound Design"
-  ];
+  technologies: {
+    frontend: ["React", "Next.js", "Vue", "Flutter"],
+    backend: ["Node.js", "Laravel", "NestJS", "Express"],
+    mobile: ["Flutter", "React Native"],
+    design: ["Figma", "Adobe Creative Suite"],
+    cloud: ["AWS", "Firebase", "Vercel", "Netlify"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+  },
   
-  currentlyLearning: string[] = [
-    "Advanced AI Integration",
-    "Web3 Technologies",
-    "Cloud Architecture"
-  ];
+  currentlyWorking: [
+    "🔥 Revolutionary Web Platform",
+    "📱 AI-Powered Mobile App",
+    "🎨 Design System Library"
+  ],
   
-  funFacts: string[] = [
-    "I speak fluent code and coffee ☕",
-    "My IDE theme changes with my mood 🌈",
-    "I debug with music on 🎵"
-  ];
+  goals: [
+    "Master AI/ML integration",
+    "Contribute to open source",
+    "Mentor aspiring developers",
+    "Build products that matter"
+  ],
   
-  workingOn(): string {
-    return "🚀 Building the next generation of web applications!";
-  }
+  funFacts: [
+    "🎵 Code better with music",
+    "☕ Powered by coffee",
+    "🌙 Night owl programmer",
+    "🎨 UI/UX perfectionist"
+  ],
   
-  getMotivation(): string {
-    return "First, solve the problem. Then, write the code. 💫";
-  }
-}
-
-const ajla = new Developer();
-console.log(ajla.workingOn());
+  motto: "Code is poetry, design is art ✨"
+};
 ```
 
 </td>
-<td width="40%">
+<td width="45%" align="center" valign="top">
 
-<div align="center">
-
-<img src="https://github.com/ajla-arramdi.png" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF50;"/>
+<img src="https://github.com/ajla-arramdi.png" width="200" style="border-radius: 20px; border: 3px solid #667eea; box-shadow: 0 10px 50px rgba(102, 126, 234, 0.3);"/>
 
 <br><br>
 
-### 🎯 *Current Focus*
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+### 🎯 Currently Building
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-*Building Scalable Web Applications with Modern Technologies*
+**Next-Generation Web Experiences**
+*with cutting-edge technologies*
 
-### 🏆 *Mission Statement*
-Creating beautiful, functional, and innovative digital experiences that solve real-world problems and inspire others
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+### 🚀 Mission
+Creating **beautiful**, **functional**, and **innovative** digital solutions that inspire and empower users worldwide
 
-</div>
+<br>
+
+<!-- LIVE STATUS -->
+<img src="https://img.shields.io/badge/Status-Building%20Amazing%20Things-brightgreen?style=flat-square&logo=visual-studio-code&logoColor=white">
 
 </td>
 </tr>
@@ -136,69 +115,134 @@ Creating beautiful, functional, and innovative digital experiences that solve re
 
 ---
 
-## 🛠 *Tech Arsenal & Expertise*
+<!-- TECH STACK SECTION -->
+<h2 id="-tech-stack" align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+Tech Arsenal
+</h2>
 
 <div align="center">
 
-### 🎨 *Frontend Mastery*
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,html,css,sass,tailwind,bootstrap,materialui&theme=dark" />
-
-### ⚡ *Backend Power*
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python,django,fastapi&theme=dark" />
-
-### 📱 *Mobile Development*
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio,xcode&theme=dark" />
-
-### 💾 *Database & Cloud*
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase,aws,vercel&theme=dark" />
-
-### 🎯 *Languages & Tools*
-<img src="https://skillicons.dev/icons?i=js,ts,dart,php,python,figma,photoshop,git,docker,vscode,postman,github&theme=dark" />
+<!-- FRONTEND -->
+<details>
+<summary><img src="https://img.shields.io/badge/🎨%20Frontend%20Mastery-Click%20to%20Expand-667eea?style=for-the-badge"></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,flutter,angular,html,css,sass,tailwind,bootstrap,materialui,figma&theme=dark&perline=7"/>
+<br><br>
+<img src="https://img.shields.io/badge/Expertise%20Level-95%25-brightgreen?style=flat-square">
+</details>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<!-- BACKEND -->
+<details>
+<summary><img src="https://img.shields.io/badge/⚡%20Backend%20Power-Click%20to%20Expand-764ba2?style=for-the-badge"></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python,django,fastapi,java,spring,go,rust&theme=dark&perline=6"/>
+<br><br>
+<img src="https://img.shields.io/badge/Expertise%20Level-90%25-brightgreen?style=flat-square">
+</details>
+
+<br>
+
+<!-- MOBILE -->
+<details>
+<summary><img src="https://img.shields.io/badge/📱%20Mobile%20Development-Click%20to%20Expand-f093fb?style=for-the-badge"></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio,xcode&theme=dark&perline=7"/>
+<br><br>
+<img src="https://img.shields.io/badge/Expertise%20Level-85%25-brightgreen?style=flat-square">
+</details>
+
+<br>
+
+<!-- CLOUD & DEVOPS -->
+<details>
+<summary><img src="https://img.shields.io/badge/☁️%20Cloud%20&%20DevOps-Click%20to%20Expand-667eea?style=for-the-badge"></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github,gitlab,vercel,netlify,firebase&theme=dark&perline=6"/>
+<br><br>
+<img src="https://img.shields.io/badge/Expertise%20Level-80%25-brightgreen?style=flat-square">
+</details>
+
+<br>
+
+<!-- DATABASES -->
+<details>
+<summary><img src="https://img.shields.io/badge/💾%20Databases%20&%20Storage-Click%20to%20Expand-764ba2?style=for-the-badge"></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,supabase,prisma&theme=dark&perline=6"/>
+<br><br>
+<img src="https://img.shields.io/badge/Expertise%20Level-88%25-brightgreen?style=flat-square">
+</details>
+
+<br>
+
+<!-- TOOLS -->
+<details>
+<summary><img src="https://img.shields.io/badge/🛠️%20Development%20Tools-Click%20to%20Expand-f093fb?style=for-the-badge"></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,git,github,postman,insomnia,figma,photoshop,illustrator&theme=dark&perline=5"/>
+<br><br>
+<img src="https://img.shields.io/badge/Expertise%20Level-92%25-brightgreen?style=flat-square">
+</details>
 
 </div>
 
 ---
 
-## 📊 *GitHub Analytics & Performance*
+<!-- GITHUB STATS -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+GitHub Analytics
+</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajla-arramdi&show_icons=true&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=FFFFFF&dates=00D9FF"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=ajla-arramdi&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=FFFFFF&dates=00D9FF"/>
-
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajla-arramdi&layout=donut&theme=algolia&hide_border=true&background=0D1117&langs_count=8&size_weight=0.5&count_weight=0.5"/>
+<!-- STATS CARDS -->
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajla-arramdi&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=667eea"/>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=ajla-arramdi&theme=tokyonight&border_radius=10&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 <br>
 
-### 📈 *Coding Activity*
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajla-arramdi&custom_title=✨%20Ajla's%20Development%20Journey%20✨&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF20" width="100%"/>
+<!-- LANGUAGE STATS -->
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajla-arramdi&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajla-arramdi&custom_title=💫%20Contribution%20Journey&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&area=true&hide_border=true&area_color=667eea20" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 *Achievements & Milestones*
+<!-- ACHIEVEMENTS -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Achievements
+</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajla-arramdi&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajla-arramdi&theme=tokyonight&no-frame=true&column=7&margin-w=5&margin-h=5&no-bg=false"/>
 
 <br>
 
-### 🎖 *Special Recognitions*
-[![GitHub followers](https://img.shields.io/github/followers/ajla-arramdi?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000)](https://github.com/ajla-arramdi)
-[![GitHub stars](https://img.shields.io/github/stars/ajla-arramdi?label=Total%20Stars&style=for-the-badge&color=FFC107&labelColor=000000)](https://github.com/ajla-arramdi)
-[![Years Badge](https://badges.pufler.dev/years/ajla-arramdi?style=for-the-badge&color=00D9FF&labelColor=000000)](https://badges.pufler.dev)
+<!-- CUSTOM BADGES -->
+<img src="https://img.shields.io/badge/Years%20of%20Coding-5+-667eea?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Projects%20Completed-50+-764ba2?style=for-the-badge&logo=checkmarx&logoColor=white">
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞-f093fb?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white">
 
 </div>
 
 ---
 
-## 🚀 *Featured Projects & Innovations*
+<!-- PROJECTS SECTION -->
+<h2 id="-projects" align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+Featured Projects
+</h2>
 
 <div align="center">
 
@@ -206,24 +250,20 @@ Creating beautiful, functional, and innovative digital experiences that solve re
 <tr>
 <td width="50%">
 
-### 🌟 *Project Spotlight*
-<a href="#">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ajla-arramdi&repo=awesome-project&theme=algolia&hide_border=true&show_owner=true&description_lines_count=3"/>
-</a>
+### 🌟 **Revolutionary Web Platform**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ajla-arramdi&repo=awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=f093fb)](https://github.com/ajla-arramdi/awesome-project)
 
-**Tech Stack:** React, Node.js, MongoDB  
-**Features:** Real-time collaboration, AI integration
+**Stack:** React • Next.js • TypeScript • MongoDB  
+**Features:** ✨ Real-time collaboration • 🤖 AI integration • 📱 PWA
 
 </td>
 <td width="50%">
 
-### 💎 *Innovation Hub*
-<a href="#">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ajla-arramdi&repo=cool-app&theme=algolia&hide_border=true&show_owner=true&description_lines_count=3"/>
-</a>
+### 🚀 **AI-Powered Mobile App**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ajla-arramdi&repo=cool-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=f093fb)](https://github.com/ajla-arramdi/cool-app)
 
-**Tech Stack:** Flutter, Firebase, TensorFlow  
-**Features:** Cross-platform, ML-powered
+**Stack:** Flutter • Firebase • TensorFlow • Python  
+**Features:** 📱 Cross-platform • 🧠 ML-powered • 🎨 Beautiful UI
 
 </td>
 </tr>
@@ -231,192 +271,267 @@ Creating beautiful, functional, and innovative digital experiences that solve re
 
 <br>
 
-### 🔥 *What I'm Building*
-- 🌐 **Next-Gen Web Platform** - Revolutionary user experience with AI
-- 📱 **Smart Mobile App** - Flutter-based solution with advanced features  
-- 🎨 **Design System** - Comprehensive UI/UX component library
-- 🤖 **AI Integration Tools** - Making AI accessible for developers
-
-</div>
-
----
-
-## 💡 *Skills & Expertise Breakdown*
-
-<div align="center">
-
-### 📊 *Skill Proficiency*
-
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
-| **Frontend** | React, Next.js, Vue, Flutter | ████████████ 95% |
-| **Backend** | Node.js, PHP, Laravel, NestJS | ███████████ 90% |
-| **Mobile** | Flutter, React Native | ██████████ 85% |
-| **Database** | MySQL, PostgreSQL, MongoDB | ███████████ 90% |
-| **Design** | Figma, Adobe Suite | ████████ 80% |
-| **DevOps** | Docker, AWS, CI/CD | ██████ 70% |
+<!-- PROJECT SHOWCASE -->
+<details>
+<summary><img src="https://img.shields.io/badge/🎯%20More%20Projects-Click%20to%20Explore-667eea?style=for-the-badge"></summary>
 
 <br>
 
-### 🎯 *Development Philosophy*
-> "Clean Code, Beautiful Design, Seamless Experience"
+| Project | Tech Stack | Status | Demo |
+|---------|------------|--------|------|
+| 🌐 **E-Commerce Platform** | React, Node.js, PostgreSQL | 🚀 Live | [View Demo](https://demo.example.com) |
+| 📱 **Fitness Tracker** | Flutter, Firebase | 🔄 In Progress | [Preview](https://preview.example.com) |
+| 🎨 **Design System** | Storybook, CSS-in-JS | ✅ Complete | [Documentation](https://docs.example.com) |
+| 🤖 **ChatBot Interface** | Vue.js, Python, OpenAI | 🔄 In Progress | Coming Soon |
+
+</details>
 
 </div>
 
 ---
 
-## 💬 *Daily Inspiration & Motivation*
+<!-- SKILLS BREAKDOWN -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
+Skills Matrix
+</h2>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### *"First, solve the problem. Then, write the code."*
-*- John Johnson*
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<br><strong>Frontend</strong>
+<br><progress value="95" max="100"></progress>
+<br><small>95%</small>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<br><strong>Backend</strong>
+<br><progress value="90" max="100"></progress>
+<br><small>90%</small>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<br><strong>Mobile</strong>
+<br><progress value="85" max="100"></progress>
+<br><small>85%</small>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<br><strong>Design</strong>
+<br><progress value="80" max="100"></progress>
+<br><small>80%</small>
+</td>
+</tr>
+</table>
 
 <br>
 
-### 🌟 *My Coding Mantras*
-- **Quality over Quantity** - Every line of code matters
-- **User-First Approach** - Technology serves people
-- **Continuous Learning** - Stay curious, stay relevant
-- **Collaborate & Share** - Knowledge grows when shared
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="100">
+<!-- CODING ACTIVITY -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ajla-arramdi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&layout=compact" />
 
 </div>
 
 ---
 
-## 🌐 *Connect & Collaborate*
+<!-- BLOG & ARTICLES -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25">
+Latest Articles & Thoughts
+</h2>
 
 <div align="center">
 
-### 📬 *Let's Build Something Amazing Together*
+<!-- BLOG POST CARDS -->
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/📝%20Building%20Modern%20Web%20Apps-Read%20Article-667eea?style=for-the-badge">
+<br><small>How to create scalable React applications</small>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🚀%20Flutter%20Best%20Practices-Read%20Article-764ba2?style=for-the-badge">
+<br><small>Mobile development patterns that work</small>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🎨%20Design%20Systems%20Guide-Read%20Article-f093fb?style=for-the-badge">
+<br><small>Creating consistent UI components</small>
+</td>
+</tr>
+</table>
 
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+<h2 id="-connect" align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
+Let's Connect & Collaborate
+</h2>
+
+<div align="center">
+
+<!-- SOCIAL LINKS -->
+<table>
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/ajla-arramdi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
 </a>
+</td>
+<td align="center">
 <a href="https://twitter.com/ajla_arramdi">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
 </a>
+</td>
+<td align="center">
 <a href="https://instagram.com/ajla_arramdi">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
 </a>
-<a href="mailto:ajla.arramdi@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-<a href="https://ajla-portfolio.dev">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722"/>
-</a>
+</td>
+<td align="center">
 <a href="https://medium.com/@ajla-arramdi">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E"/>
 </a>
-
-<br><br>
-
-### 📧 **Email:** ajla.arramdi@example.com
-### 🌍 **Based in:** Digital Realm, Planet Earth
-### ⏰ **Timezone:** UTC+7 (Available for global collaboration)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-</div>
-
----
-
-## 🎵 *Coding Soundtrack & Vibes*
-
-<div align="center">
-
-### 🎧 *What Fuels My Code*
-
-<table>
+</td>
+</tr>
 <tr>
-<td align="center" width="25%">
-🎶<br>
-**Lo-fi Hip Hop**<br>
-<sub>Focus Mode</sub>
+<td align="center">
+<a href="mailto:ajla.arramdi@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
 </td>
-<td align="center" width="25%">
-🎹<br>
-**Electronic Beats**<br>
-<sub>Creativity Boost</sub>
+<td align="center">
+<a href="https://ajla-portfolio.dev">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
+</a>
 </td>
-<td align="center" width="25%">
-🎸<br>
-**Indie Rock**<br>
-<sub>Energy Rush</sub>
+<td align="center">
+<a href="https://discord.com/users/ajla-arramdi">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA"/>
+</a>
 </td>
-<td align="center" width="25%">
-🎛<br>
-**Synthwave**<br>
-<sub>Retro Coding</sub>
+<td align="center">
+<a href="https://t.me/ajla_arramdi">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
+</a>
 </td>
 </tr>
 </table>
 
-*"Great code flows with the perfect rhythm"* 🎶
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
-
-</div>
-
----
-
-## 🐍 *GitHub Contribution Snake*
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
-
----
-
-## 📈 *Recent Activity & Updates*
-
-<div align="center">
-
-### 🔥 *Latest Commits & Contributions*
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- CONTACT INFO -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📧%20Email-ajla.arramdi@example.com-667eea?style=flat-square&logo=gmail">
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌍%20Location-Digital%20Universe-764ba2?style=flat-square&logo=google-maps">
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⏰%20Timezone-UTC+7-f093fb?style=flat-square&logo=clockify">
+</td>
+</tr>
+</table>
 
 <br>
 
-### 📝 *Recent Blog Posts*
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- AVAILABILITY STATUS -->
+<img src="https://img.shields.io/badge/🚀%20Available%20for-New%20Projects%20&%20Collaborations-brightgreen?style=for-the-badge&logo=rocket&logoColor=white">
 
 </div>
 
 ---
 
+<!-- MUSIC & INSPIRATION -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="25">
+Coding Vibes & Inspiration
+</h2>
+
 <div align="center">
 
-## 🌟 *Thank You for Visiting My Digital Space!* 🌟
-
-<img src="https://komarev.com/ghpvc/?username=ajla-arramdi&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
+<!-- SPOTIFY NOW PLAYING -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ajla_arramdi&count=1&unique=true&width=400" alt="Spotify Now Playing"/>
 
 <br>
+
+### 🎵 **Current Coding Playlist**
+
+<table>
+<tr>
+<td align="center" width="25%">
+🎧<br>**Lo-fi Beats**<br><small>Deep Focus</small>
+</td>
+<td align="center" width="25%">
+🎹<br>**Synthwave**<br><small>Retro Coding</small>
+</td>
+<td align="center" width="25%">
+🎸<br>**Indie Electronic**<br><small>Creative Flow</small>
+</td>
+<td align="center" width="25%">
+🎵<br>**Ambient**<br><small>Problem Solving</small>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💭 **Daily Inspiration**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25">
+Contribution Snake
+</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&animation=fadeIn"/>
+
+<br>
+
+<!-- VIEW COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=ajla-arramdi&color=667eea&style=for-the-badge&label=Profile+Views"/>
+
+<br><br>
 
 ### 💫 *"The best way to predict the future is to create it"*
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 <br>
 
-**Made with 💙 and lots of ☕ by Ajla Arramdi**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
+**✨ Crafted with passion, coffee, and lots of code by Ajla Arramdi ✨**
 
 ---
 
-<div align="center">
-<sub>⭐ From <a href="https://github.com/ajla-arramdi">ajla-arramdi</a> with ❤️</sub>
+<sub>🌟 **Star this repo if you like my profile!** • **Fork it to create your own** • **Follow for more cool projects** 🌟</sub>
+
 </div>
