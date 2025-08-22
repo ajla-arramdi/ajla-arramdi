@@ -12,7 +12,12 @@
 
 ## 💫 **Full Stack Developer | Mobile App Creator | Digital Artist** 💫
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💎+Crafting+Digital+Experiences;🎨+Where+Art+Meets+Technology;✨+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+### 🚀 Building the Future with Code
+### 💎 Crafting Digital Experiences  
+### 🎨 Where Art Meets Technology
+### ✨ Always Learning, Always Growing
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -149,10 +154,15 @@ class Developer {
 
 ---
 
-## 💬 **Random Dev Wisdom**
+## 💬 **Daily Motivation**
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true"/>
+
+### *"First, solve the problem. Then, write the code."*
+**- John Johnson**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
 
 ---
@@ -186,7 +196,14 @@ class Developer {
 ## 🎵 **Currently Vibing To**
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF" />
+
+### 🎧 **My Coding Playlist**
+**Lo-fi Hip Hop** • **Electronic Beats** • **Indie Rock** • **Synthwave**
+
+*"Code flows better with the right rhythm"* 🎶
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+
 </div>
 
 ---
@@ -197,6 +214,7 @@ class Developer {
 
 <img src="https://komarev.com/ghpvc/?username=ajla-arramdi&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
 
+### *"First, solve the problem. Then, write the code." - John Johnson*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
