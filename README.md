@@ -7,7 +7,7 @@
 <br>
 
 <!-- EPIC TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=667eea&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🚀+FULL+STACK+DEVELOPER;📱+MOBILE+APP+CREATOR;🎨+UI%2FUX+DESIGNER;💡+PROBLEM+SOLVER;🌟+INNOVATION+ENTHUSIAST;⚡+DIGITAL+TRANSFORMER" alt="Dynamic Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=667eea&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🚀+FULL+STACK+DEVELOPER;📱+MOBILE+APP+CREATOR;💡+PROBLEM+SOLVER;🌟+INNOVATION+ENTHUSIAST;⚡+DIGITAL+TRANSFORMER" alt="Dynamic Typing SVG" />
 
 <br>
 
