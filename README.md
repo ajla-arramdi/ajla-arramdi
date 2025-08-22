@@ -35,8 +35,8 @@
 </td>
 <td align="center" width="33%" style="border: none;">
 📱<br>
-<strong>MOBILE FIRST</strong><br>
-<sub>Flutter & Cross-Platform</sub>
+<strong>MOBILE APP</strong><br>
+<sub>Flutter</sub>
 </td>
 <td align="center" width="33%" style="border: none;">
 🎨<br>
@@ -48,9 +48,6 @@
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="800" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer"/>
 
