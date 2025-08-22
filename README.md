@@ -33,7 +33,7 @@
 class Developer {
   name: string = "Ajla Arramdi";
   pronouns: string[] = ["she", "her"];
-  location: string = "🌍 Earth";
+  location: string = "Jakarta Indonesia";
   
   languages: string[] = [
     "JavaScript", "TypeScript", 
@@ -159,7 +159,6 @@ class Developer {
 <div align="center">
 
 ### *"First, solve the problem. Then, write the code."*
-**- John Johnson**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -174,20 +173,17 @@ class Developer {
 <a href="https://www.linkedin.com/in/ajla-arramdi">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-<a href="https://twitter.com/ajla_arramdi">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-</a>
-<a href="https://instagram.com/ajla_arramdi">
+<a href="https://instagram.com/ajla.arramdi_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
 </a>
-<a href="mailto:ajla.arramdi@example.com">
+<a href="mailto:ajla.21arramdi@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
 <a href="https://ajla-portfolio.dev">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722"/>
 </a>
 
-### 📧 **Drop me a line:** `ajla.arramdi@example.com`
+
 
 </div>
 
@@ -198,7 +194,7 @@ class Developer {
 <div align="center">
 
 ### 🎧 **My Coding Playlist**
-**Lo-fi Hip Hop** • **Electronic Beats** • **Indie Rock** • **Synthwave**
+**WisnuShantika** • **Adnan Veron** • **Hindia** 
 
 *"Code flows better with the right rhythm"* 🎶
 
@@ -214,7 +210,7 @@ class Developer {
 
 <img src="https://komarev.com/ghpvc/?username=ajla-arramdi&color=00D9FF&style=for-the-badge&label=Profile+Views"/>
 
-### *"First, solve the problem. Then, write the code." - John Johnson*
+### *"First, solve the problem. Then, write the code."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
