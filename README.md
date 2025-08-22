@@ -61,26 +61,40 @@
 
 ## 🎭 *Who Am I?*
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-const developer = {
+<td width="45%">
+javascriptconst ajla = {
   name: "Ajla Arramdi",
-  location: "🌍 Jakarta, Indonesia",
-  languages: ["JavaScript", "TypeScript", "Dart", "PHP"],
-  passions: ["🌐 Web Dev", "📱 Mobile Apps", "🎨 UI/UX"],
-  currentFocus: "Building scalable applications",
-  funFact: "I speak fluent code and coffee ☕",
+  role: "Full Stack Developer",
+  location: "🏙️ Jakarta, Indonesia",
   
-  sayHello: () => console.log("Let's build something amazing! 🚀")
+  techStack: {
+    frontend: ["React", "Next.js", "Flutter"],
+    backend: ["Node.js", "Laravel", "NestJS"],
+    languages: ["JavaScript", "TypeScript", "Dart", "PHP"],
+    tools: ["Figma", "Git", "Docker", "Postman"]
+  },
+  
+  currentMission: "Building digital experiences that matter ✨",
+  
+  getMotivation() {
+    return "Every line of code is a step toward innovation! 🚀";
+  }
 };
 
+console.log(ajla.getMotivation());
 </td>
-<td width="50%">
-
+<td width="10%">
 <div align="center">
-<img src="https://github.com/ajla-arramdi.png" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF50;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+</div>
+</td>
+<td width="45%">
+<div align="center">
+<img src="https://github.com/ajla-arramdi.png" width="180" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0 0 25px #00D9FF40;"/>
+<br><br>
 
 ### 🎯 *Current Focus*
 *Building Scalable Web Applications*
