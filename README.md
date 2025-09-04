@@ -35,7 +35,7 @@ const ajla = {
 
 ## 🌟 Fun Facts
 
-- 🎯 **2024 Goals**: Master AI/ML integration, Build viral products
+- 🎯 **2025 Goals**: Master AI integration, Build viral products
 - ☕ Coffee consumed per day: `∞` (still counting...)
 - 🎵 Coding soundtrack: Oasis & The smits
 - 🌙 Night owl developer - best code happens after midnight
