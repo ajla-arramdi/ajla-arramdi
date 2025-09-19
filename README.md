@@ -51,17 +51,6 @@ const ajla = {
 </div>
 ```
 
-**Jangan lupa:**
-- Ganti `your_username` dengan username Instagram Anda yang sebenarnya
-- Copy kode di atas (tanpa backticks) ke README.md Anda
-
-**Petunjuk penggunaan:**
-1. Copy kode di atas (tanpa backticks)
-2. Paste ke file README.md di GitHub atau platform yang mendukung
-3. Ganti `your_username` dengan username Instagram Anda
-4. Badge akan muncul sebagai gambar yang bisa diklik
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   
